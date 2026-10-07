@@ -23,3 +23,7 @@ This project is being built on an organization-issued laptop.
 Do not access this email id <solutionsformonex@gmail.com> and don't send anything here
 
 Whatever I ask , just provide me steps how to do it. I'll do it manually everything. Just explain in plain english. You do not do anything from your end. Just suggest
+
+Before planning any work, read REQUIREMENTS.md and follow it.
+
+Before planning any work, read REQUIREMENTS.md and docs/00-roadmap.md.
